@@ -58,6 +58,14 @@
             <artifactId>commons-io</artifactId>
         </dependency>
 
+        <!-- add by zhxn 0312-->
+        <dependency>
+            <groupId>commons-dbcp</groupId>
+            <artifactId>commons-dbcp</artifactId>
+            <version>1.2.1</version>
+            <scope>provided</scope>
+        </dependency>
+
         <!-- Env & Test -->
         <dependency>
             <groupId>org.apache.kylin</groupId>
